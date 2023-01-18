@@ -1,0 +1,42 @@
+
+
+
+
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    color: red;text-align: center;
+}
+h2{
+    font-size: 20px;
+    color: red;
+}
+#zen-summary{
+    color: #D64FC6;
+}#zen-summary h3{
+    color: red;
+ }
+#zen-preamble{
+    color: #4FD693;
+}#zen-preamble h3{
+    color: red;
+ }
+#zen-explanation{
+    color: #FA8C36;
+}#zen-explanation h3{
+    color: red;
+ }
+#zen-participation {
+    color: #60FA46;
+}#zen-participation h3{
+    color: red;
+ }#zen-benefits {
+    color: #834CD6;
+}#zen-benefits h3{
+    color: red;
+ }#zen-requirements {
+    color: #5BFA29;
+}#zen-requirements h3{
+    color: red;
+ }
