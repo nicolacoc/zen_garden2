@@ -1,0 +1,28 @@
+header {
+    border-radius: 50%;
+    /*background-color: #FCEB28;*/
+    padding: 200px;
+    width: 500px;
+    height: 500px;
+    background: url("images/Bansky.png") 15% 25%,
+    url("images/ima2.png") 10% 10%,
+    linear-gradient(to bottom, #AB4CFE, #45B3E6, #58FC61);
+    background-clip: padding-box;
+    text-align: center;
+    margin: auto;
+
+}
+
+.summary {
+    margin-top: auto;
+}
+
+
+body {
+    font-family: 'Inconsolata', monospace;
+    background-image: url("images/sunset-landscape.jpg");
+    background-size: cover;
+    background-position: bottom;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}

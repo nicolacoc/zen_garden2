@@ -1,0 +1,54 @@
+
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h1, h2, h3 {
+    color: red;
+}
+
+#zen-summary {
+    color: #594838;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+h3 {
+    font-weight: normal;
+}
+
+#zen-preamble {
+    color: #594838;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#zen-explanation {
+    color: #594838;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#zen-participation {
+    color: #594838;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#zen-benefits {
+    color: #594838;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#zen-requirements {
+    color: #594838;
+    font-weight: bolder;
+    font-size: 20px;
+}
